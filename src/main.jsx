@@ -26,7 +26,7 @@ function App() {
           </p>
 
           <div style={{ marginTop: "36px" }}>
-            <a href="tel:12035550198" style={{ background: "#d6a43d", color: "black", padding: "16px 28px", borderRadius: "999px", textDecoration: "none", fontWeight: "800", display: "inline-block" }}>
+            <a href="tel:12032120050" style={{ background: "#d6a43d", color: "black", padding: "16px 28px", borderRadius: "999px", textDecoration: "none", fontWeight: "800", display: "inline-block" }}>
               Request a Free Estimate
             </a>
           </div>
@@ -67,7 +67,7 @@ function App() {
       <section style={{ padding: "80px 24px", background: "#d6a43d", color: "black", textAlign: "center" }}>
         <h2 style={{ fontSize: "42px" }}>Ready to start your project?</h2>
         <p style={{ fontSize: "18px" }}>Serving homeowners across Fairfield County, CT.</p>
-        <a href="mailto:info@stratabuildco.net" style={{ background: "black", color: "white", padding: "16px 28px", borderRadius: "999px", textDecoration: "none", fontWeight: "800", display: "inline-block", marginTop: "20px" }}>
+        <a href="mailto:stratabuildco@gmail.com" style={{ background: "black", color: "white", padding: "16px 28px", borderRadius: "999px", textDecoration: "none", fontWeight: "800", display: "inline-block", marginTop: "20px" }}>
           Contact STRATA Build Co.
         </a>
       </section>
