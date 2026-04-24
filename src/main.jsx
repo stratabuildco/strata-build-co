@@ -7,9 +7,11 @@ function App() {
       <section style={{ minHeight: "100vh", padding: "40px 24px", display: "flex", alignItems: "center", justifyContent: "center", textAlign: "center" }}>
         <div style={{ maxWidth: "900px" }}>
           <div style={{ marginBottom: "32px" }}>
-            <div style={{ color: "#d6a43d", fontSize: "64px", fontWeight: "900", letterSpacing: "10px" }}>
-              STRATA
-            </div>
+            <img 
+  src="/logo.png" 
+  alt="STRATA Build Co."
+  style={{ width: "260px", marginBottom: "20px" }}
+/>
             <div style={{ letterSpacing: "8px", color: "#ddd" }}>BUILD CO.</div>
           </div>
 
